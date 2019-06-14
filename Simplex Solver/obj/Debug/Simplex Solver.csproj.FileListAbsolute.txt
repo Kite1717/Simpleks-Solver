@@ -1,0 +1,40 @@
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.exe.config
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.exe
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csprojAssemblyReference.cache
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csproj.CoreCompileInputs.cache
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csproj.CopyComplete
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.exe
+C:\Users\mstf_\OneDrive\Masaüstü\MPSS2\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.exe.config
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.exe
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csprojAssemblyReference.cache
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csproj.CoreCompileInputs.cache
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csproj.CopyComplete
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.exe
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.pdb
+E:\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.exe.config
+E:\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.exe
+E:\Simplex Solver\Simplex Solver\bin\Debug\Simplex Solver.pdb
+E:\Simplex Solver\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.dll
+E:\Simplex Solver\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.xml
+E:\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csprojAssemblyReference.cache
+E:\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csproj.CoreCompileInputs.cache
+E:\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.csproj.CopyComplete
+E:\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.exe
+E:\Simplex Solver\Simplex Solver\obj\Debug\Simplex Solver.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\bin\Debug\Simplex Solver.exe.config
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\bin\Debug\Simplex Solver.exe
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\bin\Debug\Simplex Solver.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\obj\Debug\Simplex Solver.csprojAssemblyReference.cache
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\obj\Debug\Simplex Solver.csproj.CoreCompileInputs.cache
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\obj\Debug\Simplex Solver.csproj.CopyComplete
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\obj\Debug\Simplex Solver.exe
+C:\Users\mstf_\OneDrive\Masaüstü\Simplex Solver1.0\Simplex Solver\obj\Debug\Simplex Solver.pdb
